@@ -14,22 +14,27 @@ Attribute Information: > 1. age > 2. sex > 3. chest pain type (4 values) > 4. re
 
 <hr />
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
+
+### Correlation Matrix
+![Heatmap](/Images/CorrelationMatrix.png?raw=true "Graph")
+
+
 ![EDA](/Images/EDA.png?raw=true "Graph")
 
-### K-Nearest
+## K-Nearest
 ![K-Nearest](/Images/knearest.png?raw=true "Graph")
 
-### K-Means Clustering
+## K-Means Clustering
 ![K-Means](/Images/Kmeans.png?raw=true "Graph")
 
-### Decision Tree
+## Decision Tree
 ![Decision Tree](/Images/decisiontree.png?raw=true "Graph")
 
-### Random Forest
+## Random Forest
 ![Random Forest](/Images/randomforest.png?raw=true "Graph")
 
-### Comparison
+## Comparison
 ```
 k-Nearest Neighbours test recall: 1.0
 k-Nearest Neighbours test precision: 0.9798657718120806
